@@ -1,1 +1,1 @@
-# c-problem-solving
+# cpp-problem-solving
